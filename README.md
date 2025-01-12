@@ -1,3 +1,11 @@
+
+
+![Arayüz](https://github.com/user-attachments/assets/6ae378d2-706e-4a3c-a5e3-25273af11212)
+![Arayüz](https://github.com/user-attachments/assets/6b75852a-ccd8-4119-862f-5f5a9f393c1b)
+![Arayüz](https://github.com/user-attachments/assets/c49bd105-52dd-42fe-97d9-d2c7f5ef7390)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
